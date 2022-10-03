@@ -4738,6 +4738,7 @@ textarea.form-control-lg {
 
 .navbar-dark .navbar-brand {
     color: #E5E5E5;
+    background-color: #c87d52;
 }
 
     .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
@@ -4887,7 +4888,8 @@ textarea.form-control-lg {
 .card-img,
 .card-img-top,
 .card-img-bottom {
-    width: 100%;
+    width: 417px;
+    height: 417px;
 }
 
 .card-img,
@@ -8252,7 +8254,7 @@ textarea.form-control-lg {
 
 .bg-primary {
     --bs-bg-opacity: 1;
-    background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+    background-color: #c87d52 !important;
 }
 
 .bg-secondary {
@@ -11824,11 +11826,11 @@ h6, .h6 {
     margin-bottom: -44px;
 }
 
-.pies-of-the-week {
+.products-of-the-week {
     margin-top: 52px;
 }
 
-.pie-button {
+.product-button {
     position: relative;
     left: 0%;
     right: 0%;
@@ -11836,19 +11838,19 @@ h6, .h6 {
     bottom: 0%;
 }
 
-.pie-card {
+.product-card {
     border: none;
 }
 
-.card-body.pie-button {
+.card-body.product-button {
     padding: 0px;
 }
 
-.pie-button > h4, .pie-button > .h4 {
+.product-button > h4, .product-button > .h4 {
     margin-bottom: 0px;
 }
 
-.pie-link {
+.product-link {
     text-decoration: none;
 }
 
